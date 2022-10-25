@@ -1,5 +1,7 @@
 # calculator-app
 
+A Calculator app written in Vue.js 
+
 ## Project setup
 ```
 yarn install
